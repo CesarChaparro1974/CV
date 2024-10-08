@@ -6,6 +6,6 @@
 After working 7 years as a Property and Operations Manager, I decided to follow my passion for data and redirect my career. I recently graduated from the Data Analyst program at TripleTen, and I am now looking for an opportunity to join a company where I can grow and make a meaningful contribution as an Analyst.
 ***
 #### Technical Skills:<br>
-Spreadsheets, SQL, Python, Tableau, BA, A/B testing, ML, Visualizations, Finnancial Analytics, Pandas, JupyterNotebook, Anaconda, Streamlit, Statistics, Numpy, Maplotlib, Seaborn, Dashboars, Storytelling, KPIs, Sklearn, VSCode, Git
+<span style="color: #D3D3D3;">Spreadsheets, SQL, Python, Tableau, BA, A/B testing, ML, Visualizations, Financial Analytics, Pandas, Jupyter Notebook, Anaconda, Streamlit, Statistics, NumPy, Matplotlib, Seaborn, Dashboards, Storytelling, KPIs, Sklearn, VSCode, Git</span>
 
 
