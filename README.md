@@ -23,5 +23,12 @@ Spreadsheets, SQL, Python, Tableau, BA, A/B testing, ML, Visualizations, Financi
 * C2 degree in English.
 
 1989-1993: High School graduate in Valencia.
+***
+#### Professional Experience:<br>
+2019-Present: Machine translation post-editor and character encoding editor at Amazon (Corporate).
+2021-2023: Property Manager at [Holiguest](https://www.holyguest.com/) (Tel Aviv).
+2009-2024: Sales Rep. for [VitalBulk Inc.](https://retail.vitalbulk.com/) Retail Food Supplements for Spain and Israel.
+2001-2007: Business Consultant at Tecnologias Aplicadas, Alicante (Spain)
+
 
 
