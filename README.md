@@ -45,7 +45,7 @@ Spreadsheets, SQL, Python, Tableau, BA, A/B testing, ML, Visualizations, Financi
 * Made tailor made programs for sales strategy, recruiting personnel, finnances, operations and expansion in the field of shoe manufactuting, education, software applications, lockersmith companies, construction company, indoor design, etc.
 * In 2005 I was awarded as the Top Consultant on my category in United States.
 * Overal I gave consulting to more than 100 small and big corportations.
-
+***
 #### Aditional Information:<br>
 * Languages: English- Advance written and spoken, Spanish- native written and spoken, Hebrew (learning), Italian- medium spoken, basic written.
 * Driving license.
