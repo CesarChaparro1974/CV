@@ -49,9 +49,9 @@ Spreadsheets, SQL, Python, Tableau, BA, A/B testing, ML, Visualizations, Financi
 #### Aditional Information:<br>
 * Languages: English- Advance written and spoken, Spanish- native written and spoken, Hebrew (learning), Italian- medium spoken, basic written.
 * Driving license.
-* Spanish and Israeli citizen, can work in Israel without restriction and in all EU continent.
-I like to help: * In 2023 volunteered in various private programs to aid families and soldiers in Israel victims of war.
-                  * In 2024 volunteered as Senior Student in TripleTen bootcamp to assist students on their progress and projects as DA.
+* Spanish and Israeli citizen, can work in Israel without restriction and in all EU continent.<br>
+I like to help:<br> * In 2023 volunteered in various private programs to aid families and soldiers in Israel victims of war.
+                    * In 2024 volunteered as Senior Student in TripleTen bootcamp to assist students on their progress and projects as DA.
 
 
 
