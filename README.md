@@ -19,7 +19,7 @@ Spreadsheets, SQL, Python, Tableau, BA, A/B testing, ML, Visualizations, Financi
 2001-2005: Business Consultancy graduate at AOSH EU
 * A 4 year program to learn all skills about an organization, its various departments and internal operation schema. To manage operations, finnances and queality assessments inside the company.
 
-1988-1993: Higher School of Languages in Valencia [Location](https://www.google.com/maps/place/Higher+School+of+Languages,+Valencia/)
+1988-1993: Higher School of Languages in [Valencia](https://www.google.com/maps/place/Higher+School+of+Languages,+Valencia/)
 * C2 degree in English.
 
 1989-1993: High School graduate in Valencia.
