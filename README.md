@@ -16,10 +16,10 @@ Spreadsheets, SQL, Python, Tableau, BA, A/B testing, ML, Visualizations, Financi
 2023: Development - Strings Post-Editing for Spanish (es_MX, es_US), Character Encoding, Strings Terminology, Machine Translation Post-Editing at Amazon
 * Mastering ASIN Loc Light MTPE is vital for professionals in e-commerce, particularly in product management and localization. It combines technical skills with an understanding of language nuances, enabling companies to compete in an increasingly global marketplace.
 
-2001-2005: Business Consultancy graduate at AOSH EU
+2001-2005: Business Consultancy graduate at AOSH EU, Copenhagen, Denmark
 * A 4 year program to learn all skills about an organization, its various departments and internal operation schema. To manage operations, finnances and queality assessments inside the company.
 
-1988-1993: Higher School of Languages in [Valencia](https://www.google.com/maps/place/Higher+School+of+Languages,+Valencia/)
+1988-1993: Higher School of Languages in [Valencia](https://www.google.com/maps/place/Higher+School+of+Languages,+Valencia/), Spain
 * C2 degree in English.
 
 1989-1993: High School graduate in Valencia.
