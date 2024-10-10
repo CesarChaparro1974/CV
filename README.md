@@ -28,13 +28,16 @@ Spreadsheets, SQL, Python, Tableau, BA, A/B testing, ML, Visualizations, Financi
 2019-Present: Machine translation post-editor and character encoding editor at Amazon (Corporate).<br>
 * Edit, score and encode content for vendors and products to be on the online store for all the Spanish population in the world.
 * Post-edit all content for Amazon platforms, including Prime Video, Amazon Fresh, Amazon Clinic, Amazon Stores, Machine Translation for Alessa devices in Spanish.
-* Received 0 errors scores in the last 2 years on my projects and tasks by the Quality Check team.
+* Received 0 errors scores in the last 2 years on my projects and tasks by the Quality Check team.<br>
+
 2021-2023: Property Manager at [Holiguest](https://www.holyguest.com/) (Tel Aviv).<br>
 * Managed a team of 10 juniors that I created to keep a portfolio of over 100 luxury properties.
 * Monitored daily tasks for check in and check out, and mainteinance so customers and owners are satisfied.
-* Create and update data base for properties so they can be listed and online for renting.
+* Create and update data base for properties so they can be listed and online for renting.<br>
+
 2009-2024: Sales Rep. for [VitalBulk Inc.](https://retail.vitalbulk.com/) Retail Food Supplements for Spain and Israel.<br>
-* Managed sales of brand food supplements in Spain and Israel regions as retailer and online sales.
+* Managed sales of brand food supplements in Spain and Israel regions as retailer and online sales.<br>
+
 2001-2007: Business Consultant at Tecnologias Aplicadas, [Alicante](https://www.google.com/maps/place/Alicante,+Spain/)
 * Made tailor made programs for sales strategy, recruiting personnel, finnances, operations and expansion in the field of shoe manufactuting, education, software applications, lockersmith companies, construction company, indoor design, etc.
 * In 2005 I was awarded as the Top Consultant on my category in United States.
