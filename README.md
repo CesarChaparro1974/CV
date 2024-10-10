@@ -8,6 +8,7 @@ After working 7 years as a Property and Operations Manager, I decided to follow 
 Spreadsheets, SQL, Python, Tableau, BA, A/B testing, ML, Visualizations, Financial Analytics, Pandas, Jupyter Notebook, Anaconda, Streamlit, Statistics, NumPy, Matplotlib, Seaborn, Dashboards, Storytelling, KPIs, Sklearn, VSCode, Git
 ***
 #### Education:<br>
+
 2023-2024: Data Analysis Graduate at [TripleTen Israel](https://tripleten.com/)
 * A 12 month intensive program in one of the best coding bootcamps for 4 years, where DA build professional skills using industry-standard tools. Course includes 12 real-data based projects.
 * Final Project: A full finnancial analysis for a hardware international company to conduct a big audit of their sales and help them automate their existing data. I worked with SQL queries, Tableau, Jupyter, pandas, matplotlib, numpy, seaborn, plotly. [![See Final Project Here](https://img.shields.io/badge/-See%20Final%20Project%20Here-blue?style=flat&logo=Git&logoColor=white&link=https://github.com/CesarChaparro1974/Final_project.git)](https://github.com/CesarChaparro1974/Final_project.git)<br>
