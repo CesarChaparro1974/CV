@@ -12,7 +12,8 @@ Spreadsheets, SQL, Python, Tableau, BA, A/B testing, ML, Visualizations, Financi
 * A 12 month intensive program in one of the best coding bootcamps for 4 years, where DA build professional skills using industry-standard tools. Course includes 12 real-data based projects.
 * Final Project: A full finnancial analysis for a hardware international company to conduct a big audit of their sales and help them automate their existing data. I worked with SQL queries, Tableau, Jupyter, pandas, matplotlib, numpy, seaborn, plotly. [![See Final Project Here](https://img.shields.io/badge/-See%20Final%20Project%20Here-blue?style=flat&logo=Git&logoColor=white&link=https://github.com/CesarChaparro1974/Final_project.git)](https://github.com/CesarChaparro1974/Final_project.git)<br>
 
-2023: Development - Strings Post-Editing for Spanish (es_MX, es_US), Character Encoding, Strings Terminology, Machine Translation Post-Editing at [Amazon](https://www.aboutamazon.eu/news/job-creation-and-investment/proud-to-call-luxembourg-our-home-in-europe-amazon-celebrates-20-years-in-luxembourg)<br>
+2023: Post-editor and encoder at [Amazon](https://www.aboutamazon.eu/news/job-creation-and-investment/proud-to-call-luxembourg-our-home-in-europe-amazon-celebrates-20-years-in-luxembourg)
+* Developmen Strings Post-Editing for Spanish (es_MX, es_US), Character Encoding, Strings Terminology, Machine Translation Post-Editing<br>
 * Mastering ASIN Loc Light MTPE is vital for professionals in e-commerce, particularly in product management and localization. It combines technical skills with an understanding of language nuances, enabling companies to compete in an increasingly global marketplace.<br>
 
 2001-2005: Business Consultancy graduate at AOSH EU, Copenhagen, Denmark
